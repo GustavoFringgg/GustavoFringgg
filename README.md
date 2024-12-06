@@ -12,5 +12,5 @@
 - 😄 Pronouns: ...
 
 - ⚡ My codewars record
-- 🌱 ![我的 Codewars 記錄](https://www.codewars.com/users/GustavoFringg/badges/large)
-My daily note: ![dailynote](https://github.com/GustavoFringgg/daily_codewar_note)
+- 🌱 ![我的 Codewars 記錄](https://www.codewars.com/users/GustavoFringg/badges/small)
+- 🌱 My daily note: ![](https://github.com/GustavoFringgg/daily_codewar_note)
