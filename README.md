@@ -11,6 +11,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+
 ⚡ My codewars record
   Codewars record and  [My daily note](https://github.com/GustavoFringgg/daily_codewar_note)<br />
   ![我的 Codewars 記錄](https://www.codewars.com/users/Dean%20Tsai/badges/small)
