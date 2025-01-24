@@ -1,11 +1,25 @@
 ## Hi there 👋 我叫Dean(秉宏)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+web site
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+ui framed
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+frontend
+[![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+RBDMS 
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+NOsqlRBDMS 
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+test
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+package
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+
+Note
+[![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
 
 🔭 I’m currently working on ...
 🌱 I’m currently learning ...
