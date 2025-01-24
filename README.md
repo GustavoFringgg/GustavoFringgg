@@ -1,25 +1,25 @@
 ## Hi there 👋 我叫Dean(秉宏)
 
 web site\
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ui framed\
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 frontend\
-[![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
 
 backend\
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)\
-RBDMS 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+RBDMS \
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-NOsqlRBDMS 
+NOsqlRBDMS \
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-test
+test\
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-package
+package\
 [![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
 
-Note
+Note\
 [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
 
 🔭 I’m currently working on ...
