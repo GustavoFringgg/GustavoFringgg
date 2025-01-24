@@ -9,18 +9,18 @@ frontend\
 [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)<br>
 
 backend\
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)<br>
 RBDMS\
-[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)<br>
 NOsqlRBDMS\
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)<br>
 test\
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)<br>
 package\
-[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)<br>
 
 Note\
-[![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)<br>
 
 🔭 I’m currently working on ...
 🌱 I’m currently learning ...
