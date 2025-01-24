@@ -10,9 +10,9 @@ frontend\
 
 backend\
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
-RBDMS \
+RBDMS\
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-NOsqlRBDMS \
+NOsqlRBDMS\
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 test\
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
