@@ -13,7 +13,7 @@ I try to find software engineer job
 |-----------|-------------|
 | [NOMATEM](https://github.com/your-repo/NOMATEM) | A language social board built with JavaScript & JSON Server |
 | [Morchoco](https://github.com/your-repo/Morchoco) | A chocolate dessert bakery website built with React and Create React App |
-|[![ChatWall](https://firebasestorage.googleapis.com/v0/b/theodore-s-blog.appspot.com/o/%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E5%A4%BE%2Fgithub%20readme%2FchatWall%2F0126.jpg?alt=media&token=8a2ed948-f743-4506-a6bd-2e7a7e281d32)](https://github.com/GustavoFringgg/ChatWall-Frontend_v2) | ChatWalla<br> 1.website can post post<br>2.like post <br>3.follow firends<br>4.chat with other |
+|[![ChatWall](https://firebasestorage.googleapis.com/v0/b/theodore-s-blog.appspot.com/o/%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E5%A4%BE%2Fgithub%20readme%2FchatWall%2Fchatwall.jpg?alt=media&token=5a262c3c-88b5-471c-b6b2-4a105ba5b338)](https://github.com/GustavoFringgg/ChatWall-Frontend_v2) | ChatWalla<br> 1.website can post post<br>2.like post <br>3.follow firends<br>4.chat with other |
 |[![Blog](https://firebasestorage.googleapis.com/v0/b/theodore-s-blog.appspot.com/o/%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E5%A4%BE%2Fgithub%20readme%2F0124.jpg?alt=media&token=2cfe3eef-0bc4-4396-85bf-0220a457bde0)](https://gustavofringgg.github.io/personalprofile/)| My tech blog
  
 ## 🛠 Tech skills
