@@ -1,4 +1,4 @@
-## Hi there 👋 我叫Dean(秉宏)
+## Hi there 👋 I'm Derek(秉宏)
 
 
 I try to find software engineer job
