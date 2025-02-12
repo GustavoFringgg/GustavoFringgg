@@ -17,6 +17,17 @@ Have worked with both **MongoDB** and **PostgreSQL** as databases.<br>
 ✅ Long-Term Planning Ability<br>
 　　preparing for TOEIC( 705 ) to enhance competitiveness)
 
+
+I am mainly based in **Taichung** but occasionally travel to **Taipei**.<br>
+Hybrid or fully remote work is fine, but I prefer the option to work on-site.<br>
+
+Contact me<br>
+Email: adamtsai0408@gmail.com<br>
+LINE: ethern520
+
+
+
+
 ---
 
 ⚡ My Codewars record
