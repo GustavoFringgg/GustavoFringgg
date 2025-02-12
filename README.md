@@ -1,11 +1,27 @@
-## Hi there 👋 I'm Derek(秉宏)
+## Hi there 👋 I'm Derek
+
+I am looking for opportunities as a junior software engineer.<br>
+
+Have experience with two full-stack projects using a separated frontend and backend architecture.<br><br>
+Both projects are built with **Vue** for the frontend, while the backend uses **Node.js** with the **Express** framework.<br>
+Have worked with both **MongoDB** and **PostgreSQL** as databases.<br>
 
 
-I try to find software engineer job
+🚀 About me<br>
+✅ Practical Learner<br>
+　　Prefers learning through examples and hands-on practice)<br>
+✅ Adaptable to New Technologies<br>
+　　Willing to explore new tools<br>
+✅ Architectural Thinking<br>
+　　Considers code structure(MVVM/MVC), token validation, and database design)<br>
+✅ Long-Term Planning Ability<br>
+　　preparing for TOEIC( 705 ) to enhance competitiveness)
+
+---
 
 ⚡ My Codewars record
   [My daily note](https://github.com/GustavoFringgg/daily_codewar_note)<br />
-  ![我的 Codewars 記錄](https://www.codewars.com/users/Dean%20Tsai/badges/small)
+  ![我的 Codewars 記錄](https://www.codewars.com/users/%20Derek%20Tsai/badges/small)
 
 # Portfolio
 | Project   | Description |
