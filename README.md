@@ -24,7 +24,7 @@ Hybrid or fully remote work is fine, but I prefer the option to work on-site.<br
 #### Contact me<br>
 #### Email: adamtsai0408@gmail.com<br>
 #### LinkedIn: www.linkedin.com/in/dean-tsai<br>
-#### LINE: ethern520
+#### LINE: ethern520(秉宏)
 
 ---
 
