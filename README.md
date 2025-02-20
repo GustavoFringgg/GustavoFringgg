@@ -15,7 +15,7 @@ Have worked with both **MongoDB** and **PostgreSQL** as databases.<br>
 ✅ Architectural Thinking<br>
 　　Considers code structure(MVVM/MVC), token validation, and database design<br>
 ✅ Long-Term Planning Ability<br>
-　　preparing for TOEIC( 705 ) to enhance competitiveness
+　　preparing for TOEIC( 720 ) to enhance competitiveness
 
 
 I am mainly based in **Taichung** but occasionally travel to **Taipei**.<br>
