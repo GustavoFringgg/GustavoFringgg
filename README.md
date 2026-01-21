@@ -1,11 +1,10 @@
 # Hi there 👋 I'm Derek
 
-I am looking for opportunities as a junior software engineer.<br>
-
-Have experience with two full-stack projects using a separated frontend and backend architecture.<br><br>
-Both projects are built with **Vue** for the frontend, while the backend uses **Node.js** with the **Express** framework.<br>
-Have worked with both **MongoDB** and **PostgreSQL** as databases.<br>
-
+🔭 Full-Stack Software Engineer of ERP development experience  
+💻 Specialized in Vue 3, TypeScript, Node.js, Express  
+🌏 Experience in cross-border technical collaboration (Taiwan-Indonesia)  
+🔐 Google Cybersecurity Certificate holder  
+📚 Currently deepening my knowledge in system architecture and secure development
 
 🚀 About me<br>
 ✅ Practical Learner<br>
