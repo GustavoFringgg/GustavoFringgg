@@ -1,12 +1,12 @@
-# Hi there 👋 I'm Derek
+# Hi there  I'm Derek
 
-🔭 Full-Stack Software Engineer of ERP development experience  
-💻 Specialized in Vue 3, TypeScript, Node.js, Express  
-🌏 Experience in cross-border technical collaboration (Taiwan-Indonesia)  
-🔐 Google Cybersecurity Certificate holder  
-📚 Currently deepening my knowledge in system architecture and secure development
+ Full-Stack Software Engineer of ERP development experience  
+ Specialized in Vue 3, TypeScript, Node.js, Express  
+ Experience in cross-border technical collaboration (Taiwan-Indonesia)  
+ Google Cybersecurity Certificate holder  
+ Currently deepening my knowledge in system architecture and secure development
 
-🚀 About me<br>
+ About me<br>
 ✅ Practical Learner<br>
 　　Prefers learning through examples and hands-on practice<br>
 ✅ Adaptable to New Technologies<br>
@@ -30,6 +30,8 @@ Hybrid or fully remote work is fine, but I prefer the option to work on-site.<br
 ⚡ My Codewars record
   [My daily note](https://github.com/GustavoFringgg/daily_codewar_note)<br />
   ![我的 Codewars 記錄](https://www.codewars.com/users/%20Derek%20Tsai/badges/small)
+
+  [![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=GustavoFringgg&theme=dark)](https://leetcode.com/GustavoFringgg)
 
 ---
 
