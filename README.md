@@ -26,12 +26,7 @@ Hybrid or fully remote work is fine, but I prefer the option to work on-site.<br
 #### LINE: ethern520(秉宏)
 
 ---
-
-⚡ My Codewars record
-  [My daily note](https://github.com/GustavoFringgg/daily_codewar_note)<br />
-  ![我的 Codewars 記錄](https://www.codewars.com/users/%20Derek%20Tsai/badges/small)
-
-  [![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=GustavoFringgg&theme=dark)](https://leetcode.com/GustavoFringgg)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/GustavoFringgg?theme=nord&font=K2D)
 
 ---
 
