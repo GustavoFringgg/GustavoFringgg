@@ -1,9 +1,8 @@
-# Hi there  I'm Derek
+# Hi I'm Derek
 
- Full-Stack Software Engineer of ERP development experience  
- Specialized in Vue 3, TypeScript, Node.js, Express  
- Experience in cross-border technical collaboration (Taiwan-Indonesia)  
- Google Cybersecurity Certificate holder  
+ Full-Stack Software Engineer of ERP development experience   <br>
+ Specialized in Vue 3, Nuxt, TypeScript, Node.js, Express, Python , Fastapi <br>
+ Google Cybersecurity Certificate holder  <br>
  Currently deepening my knowledge in system architecture and secure development
 
  About me<br>
@@ -31,11 +30,13 @@ Hybrid or fully remote work is fine, but I prefer the option to work on-site.<br
 ---
 
 # 🛠 Tech skills
-Frontend | UI Framework<br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,bootstrap)](https://skillicons.dev)<br>
+Frontend<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,nuxtjs)](https://skillicons.dev)<br>
+UI Framework<br>
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev)<br>
 
 Backend | Backend Framework<br>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,fastapi)](https://skillicons.dev)<br>
 Relational and NoSQL Databases<br>
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)<br>
 
