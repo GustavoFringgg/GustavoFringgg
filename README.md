@@ -20,11 +20,11 @@ Hybrid or fully remote work is fine, but I prefer the option to work on-site.<br
 
 #### LinkedIn: www.linkedin.com/in/dean-tsai<br>
 
----
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/GustavoFringgg?theme=nord&font=K2D)
-
----
+<p align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/GustavoFringgg?theme=nord&font=K2D" 
+    alt="leetCode" 
+</p>
 
 # 🛠 Tech skills
 
